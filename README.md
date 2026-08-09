@@ -69,6 +69,6 @@
 ### 📫 Reach Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/richard-khabure-068b56263/">LinkedIn</a> ·
+  <a href="www.linkedin.com/in/howardmuchaki">LinkedIn</a> ·
   Kenya
 </p>
