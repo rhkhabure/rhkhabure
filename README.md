@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Richard Howard Khabure 👋</h1>
+<h1 align="center">Hi, I'm Richard Howard  👋</h1>
 <h3 align="center">Business Intelligence Analyst · Data Science & Analytics @ USIU-Africa · Nairobi, Kenya</h3>
 
 <p align="center">
