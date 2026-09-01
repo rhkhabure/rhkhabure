@@ -15,7 +15,7 @@
 
 - 🎓 Final-year **BSc Data Science & Analytics** student at USIU-Africa, concentrating in **Business Intelligence Analysis** — graduating 2027
 - 💼 Business Intelligence Analyst at USIU-Africa's Placement and Career Services (PACS), building Power BI/DAX dashboards, web scraping automation, and analytics for non-technical stakeholders
-- 🏨 Incoming Data Analytics Intern at **Sarova Hotels**, aligning data infrastructure across departments starting with Loyalty Programme and Kitchens
+- 🏨 Data Analytics Intern at **Sarova Hotels**, aligning data infrastructure across departments starting with Loyalty Programme and Kitchens
 - 🚀 Building **Melios Dira** — a data science & ML consultancy for Kenyan SMEs and startups
 - 📊 I like taking projects from raw data to a dashboard or app someone actually uses
 
